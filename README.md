@@ -5,7 +5,8 @@
 <h2> 🤖 About me </h2>
 
 - ✨ I'm a PhD student at Aston Institute of Photonic Technologies (AiPT), Aston University, UK. 
-- 🔭 I’m currently working on machine learning-based signal processing techniques for fibre-optic communications. 
+- 🔭 I’m currently working on machine learning-based signal processing techniques for fibre-optic communications.
+- 🚀 I'm a former Erasmus Mundus scholar and Marie Skłodowska-Curie fellow studying at Italy and the UK.
 - 👀 Find more about me at <a href="https://hoanglongng.github.io">my page</a>
 <!-- About section: END -->
 
