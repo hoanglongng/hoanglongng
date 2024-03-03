@@ -17,7 +17,7 @@
 <h2>Connect with me </h3>
     <p>
         <a href="https://linkedin.com/in/hoanglongng"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
-       <a href="https://twitter.com/hoanglongj"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
+       <a href="https://twitter.com/hoanglongj"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
    </p>
 
  <!-- Conecct section: END -->
@@ -39,7 +39,7 @@
 <details>
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
-   <a href="https://github.com/lauragift21/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hoanglongng&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
+   <a href="https://github.com/hoanglongng/"><img alt="Gift' Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=hoanglongng&custom_title=Gift's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 </details>
 
