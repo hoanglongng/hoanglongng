@@ -14,7 +14,7 @@
 
 <!-- Conecct section -->
 
-<h2>Connect with me </h3>
+  ## 👥 Connect with me
     <p>
         <a href="https://linkedin.com/in/hoanglongng"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
        <a href="https://twitter.com/hoanglongj"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"></a> 
@@ -31,12 +31,6 @@
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoanglongng" alt="Gift's LangStat" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoanglongng&langs_count=10&show_icons=true&locale=en&layout=compact&theme=light" alt="Gift's language" height="192px"  width="500px"/>
 </div>
-
-**Expand to view**
-<details>
-  <summary><b>:zap: GitHub Profile Stat</b></summary>
-  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hoanglongng&show_icons=true" />
-</details>
 
 <!-- GitHub section: END -->
 
