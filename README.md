@@ -1,11 +1,6 @@
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Long H. Nguyen</h3>
 
-<!-- Profile Views -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hoanglongng&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
-
  <!-- About section -->
 
 ---
@@ -49,10 +44,5 @@
 </details>
 
 <!-- GitHub section: END -->
-
-<!-- Profile Views -->
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hoanglongng&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
 
 <!-- THE END -->
