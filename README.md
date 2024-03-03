@@ -14,7 +14,7 @@
 
 <!-- Conecct section -->
 
-  ## 👥 Connect with me
+  <h2> 👥 Connect with me </h2>
     <p>
         <a href="https://linkedin.com/in/hoanglongng"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
        <a href="https://twitter.com/hoanglongj"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"></a> 
