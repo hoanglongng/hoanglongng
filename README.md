@@ -24,7 +24,7 @@
 
 <h2>Connect with me </h3>
     <p>
-        <a href="https://linkedin.com/in/hoanglongng"><img src="[https://img.shields.io/badge/-Gift%20Egwuenu%20-blue?style=plastic&amp;labelColor=blue&amp;logo=LinkedIn&amp;link=https://linkedin.com/in/egwuenugift](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" alt="LinkedIn Badge"></a> 
+        <a href="https://linkedin.com/in/hoanglongng"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a> 
        <a href="https://twitter.com/hoanglongj"><img src="https://img.shields.io/badge/-Gift Egwuenu-informational?style=plastic&amp;labelColor=informational&amp;logo=Twitter&amp;link=https://twitter.com/Dev_180Memes" alt="Twitter Badge"></a>
    </p>
 
