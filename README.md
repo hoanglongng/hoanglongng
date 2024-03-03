@@ -6,8 +6,17 @@
 
 - ✨ I'm a PhD student at Aston Institute of Photonic Technologies (AiPT), Aston University, UK. 
 - 🔭 I’m currently working on machine learning-based signal processing techniques for fibre-optic communications. 
-- 👀 Find more about me at <a href="https://hoanglongng.github.io">my personal page</a>
+- 👀 Find more about me at <a href="https://hoanglongng.github.io">my page</a>
 <!-- About section: END -->
+
+<!-- Skills section -->
+<h2> ⚡ Skills </h2>
+<p>
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X Badge"> 
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
+</p>
+<!-- Conecct section: END -->
 
 <!-- Conecct section -->
 <h2> 👥 Connect with me </h2>
