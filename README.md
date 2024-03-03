@@ -3,12 +3,7 @@
 
 <!-- Profile Views -->
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lauragift21&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
-</p>
-
-<p align="center">
-  <a href="https://www.giftegwuenu.dev">Website</a> •
-  <a href="https://twitter.com/lauragift_">Twitter</a>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hoanglongng&label=Profile%20views&color=0e75b6&style=flat" alt="isrealodejobi" />
 </p>
 
  <!-- About section -->
@@ -16,6 +11,8 @@
 ---
 ✨ I'm a PhD student at Aston Institute of Photonic Technologies (AiPT), Aston University, UK. 
 🔭 I’m currently working on machine learning-based signal processing techniques for fibre-optic communications. 
+👀 Find more about me at <a href="https://hoanglongng">Website</a>
+
 
 <!-- About section: END -->
 
