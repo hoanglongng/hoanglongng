@@ -25,7 +25,7 @@
  
   <!-- GitHub section -->
 
- ## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 20px> My GitHub Stats
+ <h2> 📊 My GitHub Stats </h2>
  
  <div>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hoanglongng" alt="Gift's LangStat" />
