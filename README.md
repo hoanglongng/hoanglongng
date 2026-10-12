@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Long H. Nguyen</h3>
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Hoang Long Nguyen</h3>
 
 <!-- About section -->
 <h2> 🤖 About me </h2>
